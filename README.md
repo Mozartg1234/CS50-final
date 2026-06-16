@@ -1,7 +1,7 @@
 Project Name: Sheet Music to MusicXML Converter
 
 Harvard Username:
-rithviksirugudi
+rithvik_72
 
 A web application that converts images of sheet music into MusicXML files, which can be opened and edited in notation software such as MuseScore, Sibelius, or Logic Pro.
 
